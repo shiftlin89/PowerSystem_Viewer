@@ -17,3 +17,4 @@ note: currently, only support the matpower case format
    The network will be autolayout. If you do not satisfy the bus location, for example, it leads to line cross, you can move the bus easily.
    
    
+![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/fig/demo.PNG)
