@@ -21,3 +21,11 @@ note: currently, only support the matpower case format
    
    
 ![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/fig/demo.PNG)
+
+
+update log:
+
+2021-03-22
+  
+      Beta version: 
+      load matpower case, show data in the table, search sub-area, display the one-line diagram, auto layout one-line diagram
