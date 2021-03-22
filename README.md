@@ -4,6 +4,8 @@ This program is academic purpose tool for power system visualization.
 
 How to use
 
+Download and unzip the files.
+
 1. load in the case from: file->open
 
 note: currently, only support the matpower case format
