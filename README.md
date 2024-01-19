@@ -24,11 +24,11 @@ Note:
 Example:
 1). The one-line diagram
 
-![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/fig/Screenshot 2024-01-19 162255--.png)
+![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/fig/162256.png)
 
 2). The table results.
 
-![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/fig/Screenshot 2024-01-19 162215.png)
+![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/fig/162215.png)
 
 update log:
 
