@@ -1,39 +1,40 @@
 # PowerSystem_Viewer
+Keywords:
+    power system network, topology, auto layout, one-line diagram
 
-This program is academic purpose tool for power system visualization.
-
-How to use
-
-Download and unzip the files.
-
-1. load in the case from: file->open
-
-note: currently, only support the matpower case format
+If you have any suggestions, please provide feedback here or send them to zenglin@outlook.com
 
 
-2. choose a bus number and the number of iters wanted to be viewed
+This program is an academic purpose tool for power system visualization. The original version is developed with python, now a new version is moved to the cloud server. 
+
+How to use:
+
+1. Go to website: http://112.74.55.232/main
+
+2. Upload your case.
+   Currently, only Matpower case is supported
+
+3. View the data by clicking the Table button;
+   View the topology graph by clicking the Graph button
 
 
-3. click search
+Note:
+  Once uploading the case, the upload button will disappear. Just refresh the page if you want to upload a new case.
 
-   The one-line diagram of the sub-area will be displayed in the left side. 
-   The network will be autolayout. If you do not satisfy the bus location, for example, it leads to lines cross, you can move the bus with mouse easily.
-   
-   
-![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/fig/demo.PNG)
+Example:
+1). The one-line diagram
 
+![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/fig/Screenshot 2024-01-19 162255--.png)
+
+2). The table results.
+
+![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/fig/Screenshot 2024-01-19 162215.png)
 
 update log:
 
-2021-03-22
+2024-01-19
   
-      Beta version: 
-      load matpower case, 
-      show data in the table, 
-      search sub-area, 
-      display the one-line diagram, 
-      auto layout one-line diagram
-      calculate the power on the branch and transformer
- 
+     View the Matpower case
+      
  to do:
-   click the bus, show the related inforamtion on the right side panel
+     View the PSSE case
