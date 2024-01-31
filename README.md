@@ -9,7 +9,7 @@ This program is an academic purpose tool for power system visualization. The ori
 
 How to use:
 
-1. Go to website: http://112.74.55.232/main
+1. Go to website: http://www.pws-viewer.com/main
 
 2. Upload your case.
    Currently, only Matpower case is supported
