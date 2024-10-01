@@ -9,12 +9,13 @@ This program is an academic purpose tool for power system visualization. The ori
 
 How to use:
 
-1. Go to website: http://www.pws-viewer.com
+1. Go to website: http://powersystem-simulations.com:8081/
+   in the section of Data-View
 
-2. Upload your case.
-   Currently, only Matpower case is supported
+3. Upload your case.
+   Currently, PSS/E (30.33), Matpower cases are supported
 
-3. View the data by clicking the Table button;
+4. View the data by clicking the Table button;
    View the topology graph by clicking the Graph button
 
 
