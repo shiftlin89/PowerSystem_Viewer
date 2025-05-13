@@ -9,7 +9,7 @@ This program is an academic purpose tool for power system visualization. The ori
 
 How to use:
 
-1. Go to website: http://powersystem-simulations.com/
+1. Go to website: [http://powersystem-simulations.com/](http://powersystem-simulations.com/Data_view)
    in the section of Data-View
 
 3. Upload your case.
