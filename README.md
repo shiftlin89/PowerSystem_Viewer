@@ -1,4 +1,7 @@
 # PowerSystem_Viewer
+
+Overwhelmed by mountains of data? This tool turns complex data into clear, insightful visualizations.
+
 Keywords:
     power system network, topology, auto layout, one-line diagram
 
