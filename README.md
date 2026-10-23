@@ -9,37 +9,26 @@ This program is an academic purpose tool for power system visualization. The ori
 
 How to use:
 
-1. Go to website: [http://powersystem-simulations.com/](http://powersystem-simulations.com/Data_view)
-   in the section of Data-View
+1. Go to website: https://pws-visualization.linsworld.com/
+
 
 3. Upload your case.
-   Currently, PSS/E (30.33), Matpower cases are supported
+   Currently, PSS/E (30.33), Matpower, CIM, QS format cases are supported
 
 4. View the data by clicking the Table button;
    View the topology graph by clicking the Graph button
 
 
-Note:
-  Once uploading the case, the upload button will disappear. Just refresh the page if you want to upload a new case.
 
 Example:
 1). The one-line diagram
 
-![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/fig/162256.png)
+![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/bus_branch.svg)
 
 2). The table results.
 
-![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/fig/162215.png)
+![image](https://github.com/shiftlin89/PowerSystem_Viewer/blob/main/node_breaker.svg)
 
-update log:
-
-2024-01-19
-  
-     View the Matpower case
-
-2024-10-01
-
-     support psse case
      better one-line diagram layout
       
  to do:
